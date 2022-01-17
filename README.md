@@ -1,4 +1,4 @@
-# Bars-Reader
+# Bars-Language
 This python code will generate and read the language "Bars"; a language I came up with based off of how computers store data.
 
 This works by having a combination of 0's and 1's. 0 meaning OFF and 1 meaning ON.
